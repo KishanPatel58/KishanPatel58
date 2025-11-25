@@ -2,12 +2,12 @@
 ### i'm Kishan Patel
 ### i'm Student and focusing on Learning Skills.
 ### Skills :-
-#### 1. HTML
-#### 2. CSS
-#### 3. JS
-#### 4. React
-#### 5. Tailwind CSS
-#### 6. JAVA
+#### 1. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
+#### 2. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+#### 3. [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+#### 4. [React](https://react.dev/learn)
+#### 5. [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
+#### 6. [JAVA](https://docs.oracle.com/en/java/)
 ### Contact Me :-
 #### Mobile No. :- 8306333444
 #### Email :- patelkishan3101@gmail.com
