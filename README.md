@@ -2,7 +2,7 @@
 ### i'm Kishan Patel
 ### i'm Student and focusing on Learning Skills.
 ### Skills :-
-#### 1. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
+#### 1. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements">HTML</a>
 #### 2. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 #### 3. [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 #### 4. [React](https://react.dev/learn)
