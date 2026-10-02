@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm KISHAN PATEL</h1>
-<h3 align="center">Tech Enthusiastic || Pursuing B.E In Information & Technology</h3>
+<img src="https://avatars.githubusercontent.com/u/217432082?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%;">
 
-- 🌱 I’m currently learning **Full Stack Devlopment using MERN Stack 💻**
+# Kishan Patel
+Full Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://kishandev.vercel.app](https://kishandev.vercel.app)
+Tech Enthusiasts at L.J.University.
 
-- 💬 Ask me about **React, html, css and JavaScript**
+### Skills
+**Advanced:** HTML, CSS
+**Intermediate:** JavaScript, TailwindCSS, MongoDB, Express, React, Node
+**Beginner:** PostgreSql, Java, Python
 
-- 📫 How to reach me **patelkishan3101@gmail.com**
+### Projects
+- [AI Website Builder](https://github.com/KishanPatel58/AI_Website_Builder) - A platform which can build Beautiful landing pages for any website.
+- [Social Media Automation](https://github.com/KishanPatel58/Social-Media-Automation) - A platform which can schedule post on Instagram or Linkedin
 
-- ⚡ Fun fact **I think i made for programming 😎**
+### Connect With Me
+[LinkedIn](https://www.linkedin.com/in/kishan-patel-015769356/) • [Email](mailto:patelkishan3101@gmail.com)
